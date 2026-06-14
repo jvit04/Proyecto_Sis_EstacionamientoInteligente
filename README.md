@@ -9,10 +9,10 @@ Materia: Sistemas Operativos | Periodo: 2026-Ex1 | Estado: Completado
 ![Vista principal](docs/screenshots/04.gif)
 
 ## Funcionalidad
-- [x] Funcionalidad 1: Control de ingreso y salida de vehículos con validación de cupos mediante el uso de locks (Mutex) para asegurar la integridad de datos compartidos [0d9922644f809d5c602755a64e7a3b4ec128979a](https://github.com/jvit04/Proyecto_Sis_EstacionamientoInteligente/commit/0d9922644f809d5c602755a64e7a3b4ec128979a)
-- [x] Funcionalidad 2: Registro de historial y auditoría con tiempos exactos y cálculo de estadía por vehículo [1e0a15a1dff36a2083be547930e2c3b5563da03c](https://github.com/jvit04/Proyecto_Sis_EstacionamientoInteligente/commit/1e0a15a1dff36a2083be547930e2c3b5563da03c)
-- [x] Funcionalidad 3: Simulación concurrente que evalúa múltiples hilos ("vehículos") compitiendo por los recursos del sistema simultáneamente [af6dde6b45827c283106e731950a7f99bea77072](https://github.com/jvit04/Proyecto_Sis_EstacionamientoInteligente/commit/af6dde6b45827c283106e731950a7f99bea77072)
-- [x] Funcionalidad 4: Generación de bitácora transaccional mediante el módulo `logging` para depuración y trazabilidad [7d9531d1a3558108c8c1c9d8611906614add2f3c](https://github.com/jvit04/Proyecto_Sis_EstacionamientoInteligente/commit/7d9531d1a3558108c8c1c9d8611906614add2f3c)
+- [x] Funcionalidad 1: Control de ingreso y salida de vehículos con validación de cupos mediante el uso de locks (Mutex) para asegurar la integridad de datos compartidos [Commit](https://github.com/jvit04/Proyecto_Sis_EstacionamientoInteligente/commit/0d9922644f809d5c602755a64e7a3b4ec128979a)
+- [x] Funcionalidad 2: Registro de historial y auditoría con tiempos exactos y cálculo de estadía por vehículo [Commit](https://github.com/jvit04/Proyecto_Sis_EstacionamientoInteligente/commit/1e0a15a1dff36a2083be547930e2c3b5563da03c)
+- [x] Funcionalidad 3: Simulación concurrente que evalúa múltiples hilos ("vehículos") compitiendo por los recursos del sistema simultáneamente [Commit](https://github.com/jvit04/Proyecto_Sis_EstacionamientoInteligente/commit/af6dde6b45827c283106e731950a7f99bea77072)
+- [x] Funcionalidad 4: Generación de bitácora transaccional mediante el módulo `logging` para depuración y trazabilidad [Commit](https://github.com/jvit04/Proyecto_Sis_EstacionamientoInteligente/commit/7d9531d1a3558108c8c1c9d8611906614add2f3c)
 
 ## Tecnologías
 `Python 3.12` `Threading` `Logging` `Datetime`
